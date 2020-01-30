@@ -1,0 +1,64 @@
+120915 10:31:13 [Note] Plugin 'FEDERATED' is disabled.
+120915 10:31:13 InnoDB: The InnoDB memory heap is disabled
+120915 10:31:13 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120915 10:31:13 InnoDB: Compressed tables use zlib 1.2.3
+120915 10:31:13 InnoDB: Initializing buffer pool, size = 128.0M
+120915 10:31:14 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+120915 10:31:14  InnoDB: Setting file C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+120915 10:31:14  InnoDB: Log file C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5\mysql\data\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+120915 10:31:15  InnoDB: Log file C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5\mysql\data\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+120915 10:31:17  InnoDB: Waiting for the background threads to start
+120915 10:31:18 InnoDB: 1.1.8 started; log sequence number 0
+120915 10:31:18 [Note] Event Scheduler: Loaded 0 events
+120915 10:31:18 [Note] C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+120915 10:37:28 [Note] Plugin 'FEDERATED' is disabled.
+120915 10:37:28 InnoDB: The InnoDB memory heap is disabled
+120915 10:37:28 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120915 10:37:28 InnoDB: Compressed tables use zlib 1.2.3
+120915 10:37:29 InnoDB: Initializing buffer pool, size = 128.0M
+120915 10:37:29 InnoDB: Completed initialization of buffer pool
+120915 10:37:29 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+120915 10:37:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+120915 10:37:30  InnoDB: Waiting for the background threads to start
+120915 10:37:31 InnoDB: 1.1.8 started; log sequence number 1595675
+120915 10:37:33 [Note] Event Scheduler: Loaded 0 events
+120915 10:37:33 [Note] C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+120915 12:23:00 [Note] Plugin 'FEDERATED' is disabled.
+120915 12:23:00 InnoDB: The InnoDB memory heap is disabled
+120915 12:23:00 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120915 12:23:00 InnoDB: Compressed tables use zlib 1.2.3
+120915 12:23:00 InnoDB: Initializing buffer pool, size = 128.0M
+120915 12:23:00 InnoDB: Completed initialization of buffer pool
+120915 12:23:00 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+120915 12:23:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+120915 12:23:00  InnoDB: Waiting for the background threads to start
+120915 12:23:01 InnoDB: 1.1.8 started; log sequence number 1616401
+120915 12:23:01 [Note] Event Scheduler: Loaded 0 events
+120915 12:23:01 [Note] C:\Documents and Settings\Mischa\Desktop\USBWebserver\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)

@@ -1,0 +1,51 @@
+191220 12:44:35 [Note] Plugin 'FEDERATED' is disabled.
+191220 12:44:35 InnoDB: The InnoDB memory heap is disabled
+191220 12:44:35 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191220 12:44:35 InnoDB: Compressed tables use zlib 1.2.3
+191220 12:44:35 InnoDB: Initializing buffer pool, size = 128.0M
+191220 12:44:35 InnoDB: Completed initialization of buffer pool
+191220 12:44:35 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+191220 12:44:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+191220 12:44:35  InnoDB: Waiting for the background threads to start
+191220 12:44:36 InnoDB: 1.1.8 started; log sequence number 1616411
+191220 12:44:37 [Note] Event Scheduler: Loaded 0 events
+191220 12:44:37 [Note] D:\unityprojects\plantreality\USBWebserver-Server/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+191221 11:45:58 [Note] Plugin 'FEDERATED' is disabled.
+191221 11:45:58 InnoDB: The InnoDB memory heap is disabled
+191221 11:45:58 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191221 11:45:58 InnoDB: Compressed tables use zlib 1.2.3
+191221 11:45:58 InnoDB: Initializing buffer pool, size = 128.0M
+191221 11:45:58 InnoDB: Completed initialization of buffer pool
+191221 11:45:58 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+191221 11:45:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+191221 11:45:59  InnoDB: Waiting for the background threads to start
+191221 11:46:00 InnoDB: 1.1.8 started; log sequence number 1616411
+200107 10:47:48 [Note] Plugin 'FEDERATED' is disabled.
+200107 10:47:48 InnoDB: The InnoDB memory heap is disabled
+200107 10:47:48 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200107 10:47:48 InnoDB: Compressed tables use zlib 1.2.3
+200107 10:47:48 InnoDB: Initializing buffer pool, size = 128.0M
+200107 10:47:48 InnoDB: Completed initialization of buffer pool
+200107 10:47:48 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+200107 10:47:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200107 10:47:48  InnoDB: Waiting for the background threads to start
+200107 10:47:49 InnoDB: 1.1.8 started; log sequence number 1616411
